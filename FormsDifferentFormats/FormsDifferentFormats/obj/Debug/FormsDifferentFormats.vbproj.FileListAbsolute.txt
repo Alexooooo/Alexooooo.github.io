@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\bin\Debug\FormsDifferentFormats.exe.config
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\bin\Debug\FormsDifferentFormats.exe
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\bin\Debug\FormsDifferentFormats.pdb
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\bin\Debug\FormsDifferentFormats.xml
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.Form1.resources
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.Resources.resources
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.exe
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.xml
+C:\Users\acer\source\repos\FormsDifferentFormats\FormsDifferentFormats\obj\Debug\FormsDifferentFormats.pdb
