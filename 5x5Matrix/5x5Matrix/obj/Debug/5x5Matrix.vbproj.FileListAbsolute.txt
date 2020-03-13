@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\bin\Debug\5x5Matrix.exe.config
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\bin\Debug\5x5Matrix.exe
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\bin\Debug\5x5Matrix.pdb
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\bin\Debug\5x5Matrix.xml
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\_5x5Matrix.Form1.resources
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\_5x5Matrix.Resources.resources
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\5x5Matrix.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\5x5Matrix.exe
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\5x5Matrix.xml
+C:\Users\acer\source\repos\5x5Matrix\5x5Matrix\obj\Debug\5x5Matrix.pdb
